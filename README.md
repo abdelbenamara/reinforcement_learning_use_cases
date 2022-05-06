@@ -10,4 +10,9 @@
 
 ### [Robotics](./robotic/)
 
-![](./images/test_panda_push.gif)
+<p>
+    <img src="https://github.com/da-ekchajzer/reinforcement_learning_use_cases/blob/master/images/test_panda_push.gif" width="250">
+</p>
+
+### [Breakout](./breakout/)
+![](./images/breakout.gif)
