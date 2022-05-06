@@ -16,3 +16,14 @@
 
 ### [Breakout](./breakout/)
 ![](./images/breakout.gif)
+
+
+### [SnakeGame](./SnakeGame/)
+
+
+<p>
+    <img src="https://github.com/da-ekchajzer/reinforcement_learning_use_cases/blob/master/images/snake.gif" width="250">
+</p>
+
+
+
