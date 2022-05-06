@@ -1,0 +1,9 @@
+gym-robotics==0.1.0
+gym==0.22.0
+stable-baselines3
+panda-gym
+tensorboard
+sb3-contrib
+ale-py==0.7.4
+jupyter==1.0.0
+imageio
