@@ -1,9 +1,0 @@
-# These are only top-level packages needed in the project
-# You must run pip install with '-r' option to install all the required dependencies
-
-ale-py==0.7.4
-imageio==2.19.0
-jupyter==1.0.0
-pyglet==1.5.23
-sb3-contrib==1.5.0
-stable-baselines3[extra]==1.5.0
