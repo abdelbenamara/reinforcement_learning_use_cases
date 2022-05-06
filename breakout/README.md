@@ -2,7 +2,7 @@
 
 ## Breakout
 
-![](breakout.gif)
+![](../images/breakout.gif)
 
 ### Pre-requisites
 
