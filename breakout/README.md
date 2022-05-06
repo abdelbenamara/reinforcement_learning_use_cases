@@ -40,6 +40,7 @@ tensorboard --logdir=logs/tensorboard/
 - #### Reinforcement Learning
 
   - [Stable-Baselines3](https://github.com/DLR-RM/stable-baselines3)
+  - [Model] (https://github.com/nicknochnack/ReinforcementLearningCourse)
 
 - #### Image
 
