@@ -4,26 +4,22 @@
 
     AI agents trained with Reinforcement Learning algorithms to learn to play video games.
 
-### [Space Invaders](./space-invaders/)
+### [Space Invaders](./space-invaders)
 
 ![](./images/space_invaders.gif)
 
-### [Robotics](./robotic/)
+### [Robotic](./robotic)
 
-<p>
-    <img src="https://github.com/da-ekchajzer/reinforcement_learning_use_cases/blob/master/images/test_panda_push.gif" width="250">
-</p>
+![](./images/test_panda_push.gif)
 
-### [Breakout](./breakout/)
+### [Breakout](./breakout)
+
 ![](./images/breakout.gif)
 
+### [SnakeGame](./snake-game)
 
-### [SnakeGame](./SnakeGame/)
+![](./images/snake.gif)
 
+### [Super Mario Bros](./super-mario-bros)
 
-<p>
-    <img src="https://github.com/da-ekchajzer/reinforcement_learning_use_cases/blob/master/images/snake.gif" width="250">
-</p>
-
-
-
+![](./images/super_mario_bros.gif)
