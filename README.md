@@ -16,7 +16,7 @@
 
 ![](./images/breakout.gif)
 
-### [SnakeGame](./snake-game)
+### [Snake game](./snake-game)
 
 ![](./images/snake.gif)
 
