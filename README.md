@@ -4,6 +4,6 @@
 
     AI agents trained with Reinforcement Learning algorithms to learn to play video games.
 
-### [Space Invaders](./space-invaders/)
+### [Super Mario Bros](./super-mario-bros/)
 
-![](./images/space_invaders.gif)
+![](./images/super_mario_bros.gif)
