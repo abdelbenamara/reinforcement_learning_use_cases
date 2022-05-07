@@ -8,7 +8,7 @@
 
 ![](./images/space_invaders.gif)
 
-### [Robotics](./robotic)
+### [Robotic](./robotic)
 
 ![](./images/test_panda_push.gif)
 
