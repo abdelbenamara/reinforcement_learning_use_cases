@@ -1,12 +1,8 @@
 # Reinforcement Learning
 
-## Space Invaders
-
-![](../images/space_invaders.gif)
-
 ## Super Mario Bros
 
-![](./images/super_mario_bros.gif)
+![](../images/super_mario_bros.gif)
 
 ### Pre-requisites
 
