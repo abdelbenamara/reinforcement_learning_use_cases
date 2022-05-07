@@ -1,0 +1,10 @@
+# These are only top-level packages needed in the project
+# You must run pip install with '-r' option to install all the required dependencies
+
+gym-notices==0.0.6
+gym-super-mario-bros==7.3.2
+imageio==2.19.0
+install==1.3.5
+jupyter==1.0.0
+sb3-contrib==1.5.0
+stable-baselines3[extra]==1.5.0
